@@ -1,0 +1,3 @@
+# LGSMTPManager
+iOS SMTP
+
